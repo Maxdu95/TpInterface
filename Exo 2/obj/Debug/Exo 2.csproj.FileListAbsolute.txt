@@ -1,0 +1,5 @@
+c:\users\mneuder\documents\visual studio 2012\Projects\TpInterface\Exo 2\bin\Debug\Exo 2.exe.config
+c:\users\mneuder\documents\visual studio 2012\Projects\TpInterface\Exo 2\bin\Debug\Exo 2.exe
+c:\users\mneuder\documents\visual studio 2012\Projects\TpInterface\Exo 2\bin\Debug\Exo 2.pdb
+c:\users\mneuder\documents\visual studio 2012\Projects\TpInterface\Exo 2\obj\Debug\Exo 2.exe
+c:\users\mneuder\documents\visual studio 2012\Projects\TpInterface\Exo 2\obj\Debug\Exo 2.pdb

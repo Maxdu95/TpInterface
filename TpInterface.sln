@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo 1", "TpInterface\Exo 1.csproj", "{26A6FFB5-D9A2-457B-A6A5-73EBE8311E5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo 2", "Exo 2\Exo 2.csproj", "{F93917AE-6DD9-4A6C-A18C-8229560EC078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo3", "Exo3\Exo3.csproj", "{1067A4A5-4C78-4FCF-9E19-70DBE52CB79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A6FFB5-D9A2-457B-A6A5-73EBE8311E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A6FFB5-D9A2-457B-A6A5-73EBE8311E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A6FFB5-D9A2-457B-A6A5-73EBE8311E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A6FFB5-D9A2-457B-A6A5-73EBE8311E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93917AE-6DD9-4A6C-A18C-8229560EC078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93917AE-6DD9-4A6C-A18C-8229560EC078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93917AE-6DD9-4A6C-A18C-8229560EC078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93917AE-6DD9-4A6C-A18C-8229560EC078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1067A4A5-4C78-4FCF-9E19-70DBE52CB79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1067A4A5-4C78-4FCF-9E19-70DBE52CB79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1067A4A5-4C78-4FCF-9E19-70DBE52CB79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1067A4A5-4C78-4FCF-9E19-70DBE52CB79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

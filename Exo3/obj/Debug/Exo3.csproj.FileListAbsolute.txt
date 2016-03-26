@@ -1,0 +1,5 @@
+C:\Users\mneuder\Documents\Visual Studio 2012\Projects\TpInterface\Exo3\bin\Debug\Exo3.exe.config
+C:\Users\mneuder\Documents\Visual Studio 2012\Projects\TpInterface\Exo3\bin\Debug\Exo3.exe
+C:\Users\mneuder\Documents\Visual Studio 2012\Projects\TpInterface\Exo3\bin\Debug\Exo3.pdb
+C:\Users\mneuder\Documents\Visual Studio 2012\Projects\TpInterface\Exo3\obj\Debug\Exo3.exe
+C:\Users\mneuder\Documents\Visual Studio 2012\Projects\TpInterface\Exo3\obj\Debug\Exo3.pdb

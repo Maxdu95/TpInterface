@@ -1,0 +1,5 @@
+c:\users\mneuder\documents\visual studio 2012\Projects\TpInterface\TpInterface\bin\Debug\TpInterface.exe.config
+c:\users\mneuder\documents\visual studio 2012\Projects\TpInterface\TpInterface\obj\Debug\TpInterface.exe
+c:\users\mneuder\documents\visual studio 2012\Projects\TpInterface\TpInterface\obj\Debug\TpInterface.pdb
+c:\users\mneuder\documents\visual studio 2012\Projects\TpInterface\TpInterface\bin\Debug\TpInterface.exe
+c:\users\mneuder\documents\visual studio 2012\Projects\TpInterface\TpInterface\bin\Debug\TpInterface.pdb
